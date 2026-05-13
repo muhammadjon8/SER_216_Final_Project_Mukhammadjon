@@ -1,7 +1,7 @@
 # SER216 Final Project — Online Library Book Reservation System
 
 ## Project Overview
-This project documents the requirements, workflow, testing, and defect analysis for a university Digital Parking Permit System.
+This project documents the requirements, workflow, testing, and defect analysis for a university Online Library Book Reservation System.
 
 ## Tools Used
 - Google Docs (report writing)
